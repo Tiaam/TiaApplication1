@@ -1,0 +1,13 @@
+
+Cette petite application web tres facile à utiliser vous permettra de mettre en oeuvre la gestion de documents ainsi qu'une petite gestion de ressources (employé).
+
+Avant de commencer vous devez creer la base de données dont le scrip se trouve dans le doccier "data". Si l'utilisateur par defaut sur votre server est le "root" sans mot de passe alors vous pouver demarrer l'application, sinon vous devez donc les information de l'utilisateur dans las première lignes du fichier "lib/lib_mysql.php".
+
+Une fois l'application lancée, l'utilisateur par defaut est :
+login : admin
+mot de passe : admin
+
+A plus !
+
+
+Clid
